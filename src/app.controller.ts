@@ -9,6 +9,7 @@ export class AppController {
   getHello(): string {
     console.log('hi');
     console.log('lf?');
+    console.log('lflfl??');
     return this.appService.getHello();
   }
 }
