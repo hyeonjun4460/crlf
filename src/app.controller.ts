@@ -10,6 +10,7 @@ export class AppController {
     console.log('hi');
     console.log('lf?');
     console.log('lflfl??');
+    console.log('test');
     return this.appService.getHello();
   }
 }
